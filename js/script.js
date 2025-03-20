@@ -1,3 +1,5 @@
+// ESERCIZIO 1 
+
 // array email invitati
 let guest=[
     'sabrina.carpenter@boolean.it',
@@ -31,3 +33,11 @@ if(checkEmail){
 else{
     console.log('Mi dispiace, non sei presente nella lista degli invitati')
 }
+
+// ESERCIZIO 2
+
+ let numPc = Math.floor(Math.random() * 6)+1;
+ let numUser = Math.floor(Math.random() * 6)+1;
+
+ console.log(('Il tuo numero è') + `${' '}` +`${numUser}`)
+ console.log(('Il numero del computer è') + `${' '}` +`${numPc}`)

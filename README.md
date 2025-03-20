@@ -24,3 +24,10 @@ STEP PRIMO ESERCIZIO
 4- ciclo array delle email
 5- verifico se è presente l`email nel ciclo
 6-creo un if per fare unscire un messaggio se l`email inserita fa parte della lista invitati o meno
+
+STEP SECONDO ESERCIZIO
+1-genero il numero per il pc
+2-genero il numero dell`utente
+3-comunico i valori in console
+4- se il valore pc è maggiore del valore utente allora stampo 'hai perso'
+5- altrimenti stampo 'hai vinto'
