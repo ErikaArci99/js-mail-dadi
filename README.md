@@ -16,3 +16,7 @@ si ma noi cosa vogliamo fare?
 torniamo a scrivere in italiano
 proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 Buon lavoro e buon divertimento!
+
+STEP PRIMO ESERCIZIO
+1-creo array email invitati
+2-permetto all`utente di inserire la sua email
