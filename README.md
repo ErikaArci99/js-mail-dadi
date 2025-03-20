@@ -20,3 +20,6 @@ Buon lavoro e buon divertimento!
 STEP PRIMO ESERCIZIO
 1-creo array email invitati
 2-permetto all`utente di inserire la sua email
+3- creo una variabile di controllo e la imposto su false
+4- ciclo array delle email
+5- verifico se è presente l`email nel ciclo
