@@ -22,3 +22,12 @@ for (let i=0; !checkEmail && i<guest.length; i++){
         checkEmail = true;
     }
 }
+
+// if per verificare la presenza della email nella lista degli invitati e stampo messaggio
+if(checkEmail){
+    console.log('Sei presente nella lista invitati!')
+}
+
+else{
+    console.log('Mi dispiace, non sei presente nella lista degli invitati')
+}
