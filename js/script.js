@@ -36,8 +36,22 @@ else{
 
 // ESERCIZIO 2
 
- let numPc = Math.floor(Math.random() * 6)+1;
- let numUser = Math.floor(Math.random() * 6)+1;
+// variabili numeri generati randomicamente
+ let numPc = Math.floor(Math.random() * 5)+1;
+ let numUser = Math.floor(Math.random() * 5)+1;
 
+//  comunicazione numeri in console
  console.log(('Il tuo numero è') + `${' '}` +`${numUser}`)
  console.log(('Il numero del computer è') + `${' '}` +`${numPc}`)
+
+//  controllo chi ha vinto e lo comunico, in caso di parità lo comunico lo stesso
+ if(numPc > numUser){
+    console.log('Mi dispiace, hai perso')
+ }
+
+ else if (numPc == numUser){
+    console.log('Parità')
+ }
+else {
+    console.log('Complimenti! Hai vinto! Giubilo!')
+}
