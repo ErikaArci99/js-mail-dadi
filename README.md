@@ -31,3 +31,5 @@ STEP SECONDO ESERCIZIO
 3-comunico i valori in console
 4- se il valore pc è maggiore del valore utente allora stampo 'hai perso'
 5- altrimenti stampo 'hai vinto'
+
+DONE
